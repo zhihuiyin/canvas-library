@@ -15,3 +15,7 @@ canvas常用的库和工具
 基于Canvas的矢量图形渲染插件，支持动画且内置图形均支持点击、拖拽等鼠标事件，可扩展新图形：https://github.com/DataV-Team/CRender
 
 p5.js 是个 JavaScript 创意编程程式库: https://github.com/processing/p5.js
+
+强大的矢量图形脚本工具：https://github.com/paperjs/paper.js
+
+Phaser是一款有趣、免费且快速的2D游戏框架，用于面向桌面和手机网页浏览器制作HTML5游戏，支持Canvas和WebGL渲染：https://github.com/photonstorm/phaser
