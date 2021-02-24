@@ -13,3 +13,5 @@ canvas常用的库和工具
 一个草图风格的canvas框架：https://github.com/pshihn/rough
 
 基于Canvas的矢量图形渲染插件，支持动画且内置图形均支持点击、拖拽等鼠标事件，可扩展新图形：https://github.com/DataV-Team/CRender
+
+p5.js 是个 JavaScript 创意编程程式库: https://github.com/processing/p5.js
